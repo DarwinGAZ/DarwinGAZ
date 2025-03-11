@@ -6,7 +6,7 @@
 - ⚡ Melhorando a cada dia
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darwingaz&show_icons=true&theme=dark&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darwingaz&theme=dark)](https://github.com/Darwingaz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darwingaz&theme=dark)](https://github.com/DarwinGAZ/github-readme-stats)
 
 
 <div>
