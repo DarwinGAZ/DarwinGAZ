@@ -2,7 +2,7 @@
 
 - 🔭 Universitario em Ciencia da computação
 - 🌱 Estudando JavaScript
--  ✟ Cristão
+-  ✟  Cristão
 - ⚡ Melhorando a cada dia
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarwinGAZ&show_icons=true&theme=dark&rank_icon=github)
