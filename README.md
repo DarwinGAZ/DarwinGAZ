@@ -29,7 +29,7 @@
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <span>TypeScript</span>
 
-  <img align="center" alt="NodeJS" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg)" />
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <span>NodeJS</span>
 
 
