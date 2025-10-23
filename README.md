@@ -1,7 +1,7 @@
 ### Olá, eu sou Darwin!
 
 - 🔭 Universitario em Ciencia da computação
-- 🌱 Estudando **NodeJS**
+- 🌱 Estudando **ReactJS**
 -  ✟  Cristão
 - ⚡ Melhorando a cada dia
 
